@@ -1,6 +1,6 @@
 - 🍕 I’m Matthew Manela
 - 📝 I blog (occasionally) at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on Twitter http://twitter.com/mmanela
-- 🌎 I recently built http://idiomatically.net - A site for exploring idioms across languages and locales
+- 🌎 I built http://idiomatically.net - A site for exploring idioms across languages and locales (and put the code here https://github.com/mmanela/idiomatically)
 - 🎉 My most popular open source projects are https://github.com/mmanela/diffplex and https://github.com/mmanela/chutzpah
 - 😄 Pronouns: he/him/his
