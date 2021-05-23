@@ -1,4 +1,5 @@
 - 🍕 I’m Matthew Manela
+- 🌱 I work at [Palmetto](https://palmetto.com) trying to make green energy more ubiquitous
 - 📝 I blog (occasionally) at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on Twitter http://twitter.com/mmanela
 - 🌎 I built http://idiomatically.net - A site for exploring idioms across languages and locales (and put the code here https://github.com/mmanela/idiomatically)
