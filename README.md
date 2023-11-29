@@ -1,6 +1,6 @@
 - 🍕 I’m Matthew Manela
 - 🌱 I am an engineering manager at [Palmetto](https://palmetto.com) working to make green energy more ubiquitous
-- 📝 I blog (occasionally) at http://matthewmanela.com about programming and running software teams
+- 📝 I blog at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on [🐘 @mmanela@hachyderm.io](https://hachyderm.io/web/@mmanela)  and  [🐦 @mmanela](http://twitter.com/mmanela)
 - 🌎 I built [Idiomatically.net](https://idiomatically.net) - A site for exploring idioms across languages and locales (and it's [open source](https://github.com/mmanela/idiomatically))
 - 🪜 I made a word game for Android and iPhone called [Anagram Ladder](https://matthewmanela.com/anagram-ladder/)
