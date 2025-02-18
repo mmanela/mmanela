@@ -2,7 +2,8 @@
 - 🌱 I am a software engineering leader who is passionate about building high-performing teams and products
 - 📝 I blog at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on  [🦋 Bluesky](https://bsky.app/profile/matthewmanela.com)
+- 🎉 My most popular open source project is [DiffPlex - A .NET diffing library](https://github.com/mmanela/diffplex)
+- 📌 I made a simple Mac app called [Quick Motivation](https://github.com/mmanela/quick_motivation) that allows pinning messages to the Mac menu bar
 - 🌎 I built [Idiomatically.net](https://idiomatically.net) - A site for exploring idioms across languages and locales (and it's [open source](https://github.com/mmanela/idiomatically))
 - 🪜 I made a word game for Android and iPhone called [Anagram Ladder](https://matthewmanela.com/anagram-ladder/) (and it's [open source](https://github.com/mmanela/anagram_ladder))
-- 🎉 My most popular open source project is [DiffPlex - A .NET diffing library](https://github.com/mmanela/diffplex)
 - 😄 Pronouns: he/him/his
