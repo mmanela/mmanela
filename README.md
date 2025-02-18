@@ -4,5 +4,5 @@
 - 📫 You can reach out to me on  [🦋 Bluesky](https://bsky.app/profile/matthewmanela.com)
 - 🌎 I built [Idiomatically.net](https://idiomatically.net) - A site for exploring idioms across languages and locales (and it's [open source](https://github.com/mmanela/idiomatically))
 - 🪜 I made a word game for Android and iPhone called [Anagram Ladder](https://matthewmanela.com/anagram-ladder/) (and it's [open source](https://github.com/mmanela/anagram_ladder))
-- 🎉 My most popular open source projects are [DiffPlex - A .NET diffing library](https://github.com/mmanela/diffplex) and [Chutzpah - A JS Unit Test Runner](https://github.com/mmanela/chutzpah)
+- 🎉 My most popular open source project is [DiffPlex - A .NET diffing library](https://github.com/mmanela/diffplex)
 - 😄 Pronouns: he/him/his
