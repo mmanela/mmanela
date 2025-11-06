@@ -1,4 +1,4 @@
-- 🍕 I’m Matthew Manela
+- 🍕 I’m Matt Manela
 - 🌱 I am a software engineering leader who is passionate about building high-performing teams and products
 - 📝 I blog at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on  [🦋 Bluesky](https://bsky.app/profile/matthewmanela.com)
