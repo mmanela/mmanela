@@ -1,5 +1,5 @@
 - 🍕 I’m Matt Manela
-- 🌱 I am a software engineering leader who is passionate about building high-performing teams and products
+- 🌱 I am a software engineering leader who is passionate about building high-performing teams, products and organizations
 - 📝 I blog at http://matthewmanela.com about programming and running software teams
 - 📫 You can reach out to me on  [🦋 Bluesky](https://bsky.app/profile/matthewmanela.com)
 - 🎉 My most popular open source project is [DiffPlex - A .NET diffing library](https://github.com/mmanela/diffplex)
